@@ -1,0 +1,19 @@
+{
+  "name": "001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon node server.js"
+  },
+  "keywords": [],
+  "author": "Ali Mohammadinezhad",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "mongodb": "^6.4.0"
+  }
+}
